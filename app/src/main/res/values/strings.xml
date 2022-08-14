@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">sallurdayHW2</string>
+    <string name="welcome_to_pig_dice">Welcome To Pig Dice!</string>
+    <string name="start_game">Start Game</string>
+    <string name="about_pig_dice">About Pig Dice</string>
+    <string name="instructions">The player who goes first will be randomly decided. That first player will then roll the die. If he/she rolls a 2, 3, 4, 5, or 6, then that score will be added to the total number of points scored that round and the player gets to decide if they want to roll again or pass the die to the other player. If he/she decides to roll again and gets a 2, 3, 4, 5, or 6, that number is added to the total for the round. If he/she rolls a 1, they earn lose all the points they accumulated during that round and immediately pass the die to the other player. This continues until a pre-determined score has been reached. Credits:  Dice Drawables taken from Zybooks Chapter 4.2</string>
+    <string name="back_to_home_page">Back To Home Page</string>
+    <string name="enter_whole_number_here">Enter Whole Number Here</string>
+    <string name="game_setup">Game Setup</string>
+    <string name="what_number_do_you_want_to_play_to">What number do you want to play to?</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="type_here">Type here</string>
+    <string name="player_name">Player Name:</string>
+    <string name="begin">Begin</string>
+    <string name="placeholder">placeHolder</string>
+    <string name="banker">Banker</string>
+    <string name="roll_die">Roll Die</string>
+    <string name="roll_again">Roll Again</string>
+    <string name="end_turn">End Turn</string>
+    <string name="play_again">Play Again</string>
+    <string name="One_Rolled">A 1 was rolled, your turn is over</string>
+    <string name="one_hundred">100</string>
+    <string name="player">Player</string>
+    <string name="quit">Quit</string>
+    <string name="computer_games_won">Computer Games Won:</string>
+    <string name="player_games_won">Player Games Won:</string>
+</resources>
